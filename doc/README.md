@@ -2,8 +2,6 @@
 关于有价值的github仓库推荐,[https://github.com/Weibozzz](https://github.com/Weibozzz)
 
 您的Star是我进行创作的动力！
-## 进入目录
-[![立即阅读](https://weibozzz.github.io/assets/github-icons/start-read.png)](http://www.liuweibo.cn:4321)
 ## 关于作者 / About
 
 - github:[https://github.com/Weibozzz](https://github.com/Weibozzz)
@@ -23,6 +21,5 @@
 ## 版权声明
 - 所有原创文章的著作权属于 Weibozzz。
 查看文档
-
 
 
